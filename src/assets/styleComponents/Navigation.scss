@@ -1,0 +1,22 @@
+.Navigation {
+
+  padding: 10px 0 16px;
+
+  &__menu {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin-left: 25px;
+
+    li {
+      color: inherit;
+      margin-right: 20px;
+      font-size: 16px;
+    }
+
+    &:hover {
+      text-shadow: $main-shadow-text;
+    }
+
+  }
+}

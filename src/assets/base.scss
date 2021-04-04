@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  font-size: 14px;
+  color: #000;
+  background: #fff;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.App {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+  overflow: hidden;
+  background-color: $main-background;
+
+}
