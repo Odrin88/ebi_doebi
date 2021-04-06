@@ -1,0 +1,46 @@
+.Filter {
+    display: flex;
+    align-items: center;
+
+    &__title {
+        margin-right: 15px;
+        color: #879758;
+    }
+    &__burger {
+        content: url('../icons/filter.png');
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+        transition: .3s all;
+
+        &:hover {
+            transform: rotate(180deg);
+            transition: 0.4s;
+        }
+
+
+        & div {
+            width: 34px;
+            height: 31px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+
+        & div div {
+            width: 21px;
+            height: 5px;
+            border-radius: 1px;
+            margin: 0 0 7px 13px;
+            transition: .3s all;
+            background-color: #879758;
+
+        }
+
+        & div div:last-child {
+            width: 34px;
+            margin: 0;
+        }
+        
+    }
+}

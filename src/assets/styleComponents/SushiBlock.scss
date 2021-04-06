@@ -1,0 +1,13 @@
+.Sushi {
+    &__card {
+        display: flex;
+        width: 33.333333333%;
+        padding: 0 15px;
+
+        &__img {
+            position: relative;
+            padding: 0 0 70px;
+            height: 100%;
+        }
+    }
+}

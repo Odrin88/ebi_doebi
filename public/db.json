@@ -1,0 +1,366 @@
+{
+    "sushi": [
+        {
+            "id": 0,
+            "nameCategories": "Наборы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/bcd7fee9-249e-42fa-b72b-eddd1ea5e8ca.jpg",
+            "name": "Ёбико",
+            "price": 999,
+            "weight": 1.140,
+            "category": 2,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 1,
+            "nameCategories": "Наборы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/791de4bd-3179-46b6-96d3-2e18c4dd2c37.jpg",
+            "name": "Си Сяке",
+            "price": 1149,
+            "weight": 1.830,
+            "category": 2,
+            "measure": "гр."
+        },
+        {
+            "id": 2,
+            "nameCategories": "Наборы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/600b6a80-e2ee-4b39-a5c9-83d7d9658271.jpg",
+            "name": "Куни Ли",
+            "price": 1099,
+            "weight": 1.940,
+            "category": 2,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 3,
+            "nameCategories": "Наборы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/e9d040ec-7419-489f-aef9-29dcc19372ff.jpg",
+            "name": "Хира Си",
+            "price": 1199,
+            "weight": 1.625,
+            "category": 2,
+            "measure": "гр."
+        },
+        {
+            "id": 4,
+            "nameCategories": "Наборы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/fb6e9af1-1b74-4687-adf9-abced8b0712a.jpg",
+            "name": "Ёбоши",
+            "price": 999,
+            "weight": 1.130,
+            "category": 2,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 5,
+            "nameCategories": "Ролы Суши",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/19d48208-fb32-4f7e-88f3-ce537f44dfd9.jpg",
+            "name": "Авокадо маки",
+            "price": 180,
+            "weight": 130,
+            "category": 3,
+            "measure": "гр."
+        },
+        {
+            "id": 6,
+            "nameCategories": "Ролы Суши",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/44b993e0-07e5-4e04-bbdb-f0073bf98a6e.jpg",
+            "name": "Хибана",
+            "price": 295,
+            "weight": 215,
+            "category": 3,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 7,
+            "nameCategories": "Ролы Суши",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/b6093fe1-2e3c-48f1-843b-8d92c020997c.jpg",
+            "name": "Филадельфия унаги",
+            "price": 509,
+            "weight": 255,
+            "category": 3,
+            "measure": "гр."
+        },
+        {
+            "id": 8,
+            "nameCategories": "Ролы Суши",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/7da4da62-4815-4168-8c72-8b79d660ac0f.jpg",
+            "name": "Такуан спайс",
+            "price": 259,
+            "weight": 185,
+            "category": 3,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 9,
+            "nameCategories": "Премиум",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/b61dbc20-56e8-4ce0-b627-6cd02ccd8874.jpg",
+            "name": "Калифорния эби",
+            "price": 449,
+            "weight": 245,
+            "category": 4,
+            "measure": "гр."
+        },
+        {
+            "id": 10,
+            "nameCategories": "Премиум",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/2aeac63b-3b73-49ed-8169-017d7080fcab.jpg",
+            "name": "Нью Йорк",
+            "price": 569,
+            "weight": 290,
+            "category": 4,
+            "measure": "гр."
+        },
+        {
+            "id": 11,
+            "nameCategories": "Премиум",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/4abcebb0-d82a-4fa0-9110-728ca218c317.jpg",
+            "name": "Филадельфия «Люкс»",
+            "price": 529,
+            "weight": 305,
+            "category": 4,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 12,
+            "nameCategories": "Темпура",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/70d1fb76-bb85-4b2d-b7af-b2cdedf9a48b.jpg",
+            "name": "Филадельфия темпура",
+            "price": 309,
+            "weight": 215,
+            "category": 5,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 13,
+            "nameCategories": "Темпура",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/8058be15-0734-4718-9d82-41d6484a0ad5.jpg",
+            "name": "Сяке темпура",
+            "price": 339,
+            "weight": 190,
+            "category": 5,
+            "measure": "гр."
+        },
+        {
+            "id": 14,
+            "nameCategories": "Темпура",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/e40896ca-74bf-4704-9fe4-18c10ad11333.jpg",
+            "name": "Доёби",
+            "price": 339,
+            "weight": 230,
+            "category": 5,
+            "measure": "гр."
+        },
+        {
+            "id": 15,
+            "nameCategories": "Темпура",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/551c9bf9-d1f4-4c0b-bebe-6f20224f9440.jpg",
+            "name": "Джеки чан темпура",
+            "price": 369,
+            "weight": 225,
+            "category": 5,
+            "measure": "гр."
+        },
+        {
+            "id": 16,
+            "nameCategories": "Горячее и салаты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/94592413-bfc4-4ce9-839a-2faa4a1fe47f.jpg",
+            "name": "Лосось темпура",
+            "price": 150,
+            "weight": 120,
+            "category": 6,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 17,
+            "nameCategories": "Горячее и салаты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/9578d2d0-4c83-4b51-9f2e-23ba83c7c5a6.jpg",
+            "name": "Поке с креветкой",
+            "price": 350,
+            "weight": 235,
+            "category": 6,
+            "measure": "гр."
+        },
+        {
+            "id": 18,
+            "nameCategories": "Горячее и салаты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/3f8fcff3-7c6c-4969-bbbf-64e0f45e5c70.jpg",
+            "name": "Унаги Хосомаки",
+            "price": 359,
+            "weight": 280,
+            "category": 6,
+            "measure": "гр."
+        },
+        {
+            "id": 19,
+            "nameCategories": "Горячее и салаты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/f73190ba-3e13-41ca-ac8d-f8f82b68234f.jpg",
+            "name": "Хиругохан",
+            "price": 269,
+            "weight": 295,
+            "category": 6,
+            "measure": "гр."
+        },
+        {
+            "id": 20,
+            "nameCategories": "Горячее и салаты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/113d0e9f-ef8d-4789-862b-eaac21cd51af.jpg",
+            "name": "Цезарь с курицей",
+            "price": 229,
+            "weight": 160,
+            "category": 6,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 21,
+            "nameCategories": "Соусы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/b93bcbc9-ed76-4e61-887c-d0349a47be72.jpg",
+            "name": "Соус Лава",
+            "price": 50,
+            "weight": 30,
+            "category": 7,
+            "measure": "гр."
+        },
+        {
+            "id": 22,
+            "nameCategories": "Соусы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/6c45dbb1-a86f-4d65-b7a4-d16f236581e9.jpg",
+            "name": "Соус Ореховый",
+            "price": 50,
+            "weight": 30,
+            "category": 7,
+            "measure": "гр."
+        },
+        {
+            "id": 23,
+            "nameCategories": "Соусы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/5c6476cd-7bcb-4b9c-b0e7-4e3784124dc9.jpg",
+            "name": "Соус Спайс",
+            "price": 30,
+            "weight": 30,
+            "category": 7,
+            "measure": "гр."
+        },
+        {
+            "id": 24,
+            "nameCategories": "Соусы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/79ca9e25-0ddc-4d8f-90c7-725548fe0d58.jpg",
+            "name": "Соус Терияки",
+            "price": 30,
+            "weight": 30,
+            "category": 7,
+            "measure": "гр."
+        },
+        {
+            "id": 25,
+            "nameCategories": "Соусы",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/3dc88d3d-08af-4ce8-a524-f9615a385278.jpg",
+            "name": "Соус Унаги",
+            "price": 30,
+            "weight": 30,
+            "category": 7,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 26,
+            "nameCategories": "Напитки Десерты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/dfb464c0-2056-4651-890e-7853023af1d4.jpg",
+            "name": "Сладкий ролл в блинчике",
+            "price": 175,
+            "weight": 210,
+            "category": 8,
+            "measure": "гр.",
+            "type": "recommendation"
+        },
+        {
+            "id": 27,
+            "nameCategories": "Напитки Десерты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/47f910e4-38b3-40f8-b191-adda261ed1e5.jpg",
+            "name": "Чизкейк клубника",
+            "price": 130,
+            "weight": 100,
+            "category": 8,
+            "measure": "гр."
+        },
+        {
+            "id": 28,
+            "nameCategories": "Напитки Десерты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/640cf3d4-9866-42bd-9ce3-49869035f3f0.jpg",
+            "name": "Морс.",
+            "price": 90,
+            "weight": 500,
+            "category": 8,
+            "measure": "мл."
+        },
+        {
+            "id": 29,
+            "nameCategories": "Напитки Десерты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/b95b6e53-d02f-4dd3-8aff-52edfe38f96c.jpg",
+            "name": "Пепси 0,33",
+            "price": 60,
+            "weight": 330,
+            "category": 8,
+            "measure": "мл.",
+            "type": "recommendation"
+        },
+        {
+            "id": 30,
+            "nameCategories": "Напитки Десерты",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/1544a78f-58b8-47a9-8696-7044ef9ea373.jpg",
+            "name": "Чизкейк New York",
+            "price": 130,
+            "weight": 100,
+            "category": 8,
+            "measure": "гр."
+        },
+        {
+            "id": 31,
+            "nameCategories": "Оформление",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/2329e5bc-5b34-4977-9cf7-64f5683026b5.jpg",
+            "name": "Васаби, соевый соус, имбирь",
+            "price": 35,
+            "weight": 140,
+            "category": 9,
+            "measure": "гр."
+        },
+        {
+            "id": 32,
+            "nameCategories": "Оформление",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/d95ceb3d-3a94-4070-a046-e12e8ec6d2a1.jpg",
+            "name": "Соус соевый",
+            "price": 20,
+            "weight": 100,
+            "category": 9,
+            "measure": "мл."
+        },
+        {
+            "id": 33,
+            "nameCategories": "Оформление",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/85632c08-7509-4478-85a0-380893cbf08d.jpg",
+            "name": "Имбирь 30гр",
+            "price": 10,
+            "weight": 30,
+            "category": 9,
+            "measure": "гр."
+        },
+        {
+            "id": 34,
+            "nameCategories": "Оформление",
+            "imageUrl": "https://102922.selcdn.ru/nomenclature_images/61d86f73-cc5a-11e8-80d5-d8d385655247/6cca900c-2a74-4d75-b19c-d6d6b4da1cfe.jpg",
+            "name": "Васаби 10гр",
+            "price": 10,
+            "weight": 10,
+            "category": 9,
+            "measure": "гр."
+        }
+    ]
+}

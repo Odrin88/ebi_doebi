@@ -9,6 +9,8 @@ import fl from "../assets/icons/fl.svg";
 import tt from "../assets/icons/tt.svg";
 import tg from "../assets/icons/tg.svg";
 import Categories from './Categories';
+import Cart from "./Cart";
+import Promo from "./Promo";
 
 const categoriesNames = [
     'Ланчи',
@@ -63,7 +65,10 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            
+            <div className="Header__promo">
+                <Promo />
+                <Cart />
+            </div>
             <Categories items={categoriesNames}/>
             <Modal active={modalActive} setActive={setModalActive}/>
         </>

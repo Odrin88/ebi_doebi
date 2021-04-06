@@ -1,6 +1,11 @@
 .Header {
   padding: 5px 0 5px;
 
+  &__promo {
+    display: flex;
+    justify-content: flex-end;
+  }
+
   &__container {
     display: flex;
     justify-content: space-between;

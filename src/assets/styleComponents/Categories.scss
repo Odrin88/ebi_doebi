@@ -17,7 +17,6 @@
                 &:hover {
                     color: #879758;
                 }
-
             }
         }
         &__list {
@@ -30,51 +29,9 @@
                 content: url('../icons/star-big.svg');
                 position: absolute;
                 left: 0;
-                top: -1px;
+                top: -1px;  
             }
         }
     }
-    &__btn {
-        color: #fff;
-        width: 123px;
-        height: 30px;
-        border-radius: 6px;
-        background-color: #dc243e;
-        display: flex;
-        align-items: center;
-        
-        cursor: pointer;
-
-        img {
-            display: inline;
-            vertical-align: middle;
-            max-width: 100%;
-            border: 0;
-            margin-left: 18px;
-        }
-
-        &__sum {
-            margin-left: 10px;
-            font-size: 18px;
-            font-family: "MuseoSansCyrl_100";
-        }
-
-        &__rub {
-            font-family: 'rouble', sans-serif;
-            margin-left: 6px;
             
-        }
-
-        &__num {
-            font-family: "MuseoSansCyrl_100";
-            margin-left: 10px;
-            border-left: 1px solid #000;
-            font-size: 18px;
-            padding-left: 7px;
-        }
-
-        &:hover {
-            background: #ac0d24;;
-        }
-    }        
 }

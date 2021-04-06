@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from "prop-types";
-import cart from "../assets/icons/basket.png";
+import Filters from "./Filters";
 
-function Categories({items}) {
+const Categories = ({items}) => {
 
     const name = items.map((item, id) =>
         <li key = {`${item}_${id}`}>
@@ -19,12 +19,7 @@ function Categories({items}) {
                     </li>
                         {name}  
                 </ul>
-                    <div className="Categories__btn">
-                        <img src={cart} alt="cart"/>
-                        <span className="Categories__btn__sum">0</span>
-                        <span className="Categories__btn__rub">c</span>
-                        <div className="Categories__btn__num">0</div>
-                    </div>
+                    <Filters />
             </div>
         </div>
     )

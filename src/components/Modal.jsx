@@ -14,7 +14,7 @@ const Modal = ({active, setActive}) => {
                         <img src={modalLogo} alt=""/>
                     </div>
                     <div className="Modal__content__title">
-                        <p>Выбери свой город</p>
+                        Выбери свой город
                     </div>
                 </div>
                 <div className="Modal__search">
