@@ -1,5 +1,7 @@
+@import 'fonts';
 @import 'theme';
 @import 'base';
 @import './styleComponents/Header';
 @import './styleComponents/Navigation';
-
+@import './styleComponents/Modal.scss';
+@import './styleComponents/Categories.scss';
